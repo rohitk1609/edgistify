@@ -1,8 +1,9 @@
 # edgistify
+Mern Stack
 
 # Functionality
 
-User Can register with a Email Address ,Publish a post , can View other user posts, can comment on any posts,delete his own post 
+User Can register with a Email Address ,Publish a post , can View other user posts, can comment on any posts,delete his own post .
 
 # Requirments
 Nodejs and npm, mongodb must be installed.
@@ -25,9 +26,12 @@ Nodejs and npm, mongodb must be installed.
    3. server runs on http://localhost:9000  and client host http://localhost:3000
  
  Basic UI.
-for any Queries You can Contact me 
-Rohit
-3rd year student 
-IIT ropar
-+917032670785
+for any Queries ,You can Contact me 
+Rohit,
+3rd year student, 
+IIT ropar,
++917032670785,
 email - 2017cscb1087@iitrpr.ac.in / rohitkumark1609@gmail.com
+
+
+ # all Your functionalites are Met
