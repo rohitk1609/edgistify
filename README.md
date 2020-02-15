@@ -15,6 +15,7 @@ Nodejs and npm, mongodb must be installed.
    # install Dependencies
    1. run the command npm install/npm in project directory/folder. 
    2. go to view folder(i.e client server/react server) and install dependencies - npm install/npm i
+   3. In case if all the dependencies are not installed ,run the command - npm audit fix.
     
    # Run the server
    
@@ -24,3 +25,9 @@ Nodejs and npm, mongodb must be installed.
    3. server runs on http://localhost:9000  and client host http://localhost:3000
  
  Basic UI.
+for any Queries You can Contact me 
+Rohit
+3rd year student 
+IIT ropar
++917032670785
+email - 2017cscb1087@iitrpr.ac.in / rohitkumark1609@gmail.com
