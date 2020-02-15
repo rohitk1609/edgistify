@@ -7,13 +7,14 @@ User Can register with a Email Address ,Publish a post , can View other user pos
 # Requirments
 Nodejs and npm, mongodb must be installed.
 
-# installation steps
+# Installation steps
 
 1. Download the project
 2. extract it 
+
    # install Dependencies
-   npm install in root folder
-   go to view folder(i.e client server/react server) and install dependencies npm install
+   1. run the command npm install/npm in project directory/folder. 
+   2. go to view folder(i.e client server/react server) and install dependencies - npm install/npm i
     
    # Run the server
    
